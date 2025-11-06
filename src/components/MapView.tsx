@@ -56,7 +56,7 @@ export default function MapView({
       zoom={13}
     >
       <TileLayer
-        url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png?key=88d31ef9-10b8-4ea3-9418-840e9dcd0a4b"
+        url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png?key=8ekR2tyZjc7YizbnYT1A"
         attribution="&copy; Stadia Maps & OpenMapTiles & OSM contributors"
       />
 
