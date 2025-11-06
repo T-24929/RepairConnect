@@ -56,8 +56,8 @@ export default function MapView({
       zoom={13}
     >
       <TileLayer
-        url="https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png?key=8ekR2tyZjc7YizbnYT1A"
-        attribution="&copy; Stadia Maps & OpenMapTiles & OSM contributors"
+        url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+        attribution="&copy; OpenTopoMap contributors"
       />
 
       {/* Keep map centered when user moves */}
